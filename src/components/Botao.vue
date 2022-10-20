@@ -30,8 +30,6 @@ export default defineComponent({
         clicado() : void {
             this.$emit('clicado')
         }
-    }
-
-    
+    }  
 })
 </script>
